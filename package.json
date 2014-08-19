@@ -1,0 +1,23 @@
+{
+  "name": "jekyll-gulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "gulp-jekyll": "^0.0.0"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.4.0",
+    "gulp": "^3.8.7",
+    "gulp-livereload": "^2.1.0",
+    "gulp-watch": "^0.6.9",
+    "path": "^0.4.9",
+    "tiny-lr": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
